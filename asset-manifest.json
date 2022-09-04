@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/color-sequence-memorizer/static/js/app.d52a7d5c.chunk.js",
+    "app.js.map": "/color-sequence-memorizer/static/js/app.d52a7d5c.chunk.js.map",
+    "runtime~app.js": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js",
+    "runtime~app.js.map": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js.map",
+    "static/js/2.912277c3.chunk.js": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js",
+    "static/js/2.912277c3.chunk.js.map": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js.map",
+    "fonts/AntDesign.ttf": "/color-sequence-memorizer/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/color-sequence-memorizer/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/color-sequence-memorizer/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/color-sequence-memorizer/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/color-sequence-memorizer/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/color-sequence-memorizer/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/color-sequence-memorizer/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/color-sequence-memorizer/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/color-sequence-memorizer/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/color-sequence-memorizer/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/color-sequence-memorizer/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/color-sequence-memorizer/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/color-sequence-memorizer/favicon-16.png",
+    "favicon-32.png": "/color-sequence-memorizer/favicon-32.png",
+    "favicon.ico": "/color-sequence-memorizer/favicon.ico",
+    "index.html": "/color-sequence-memorizer/index.html",
+    "manifest.json": "/color-sequence-memorizer/manifest.json",
+    "serve.json": "/color-sequence-memorizer/serve.json",
+    "static/js/2.912277c3.chunk.js.LICENSE.txt": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js.LICENSE.txt",
+    "static/media/splash.png": "/color-sequence-memorizer/static/media/splash.59202d46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.85b4155e.js",
+    "static/js/2.912277c3.chunk.js",
+    "static/js/app.d52a7d5c.chunk.js"
+  ]
+}
