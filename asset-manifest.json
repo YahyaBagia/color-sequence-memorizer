@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/color-sequence-memorizer/static/js/app.d52a7d5c.chunk.js",
-    "app.js.map": "/color-sequence-memorizer/static/js/app.d52a7d5c.chunk.js.map",
+    "app.js": "/color-sequence-memorizer/static/js/app.acf68bcb.chunk.js",
+    "app.js.map": "/color-sequence-memorizer/static/js/app.acf68bcb.chunk.js.map",
     "runtime~app.js": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js",
     "runtime~app.js.map": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js.map",
-    "static/js/2.912277c3.chunk.js": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js",
-    "static/js/2.912277c3.chunk.js.map": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js.map",
+    "static/js/2.9dca563c.chunk.js": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js",
+    "static/js/2.9dca563c.chunk.js.map": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js.map",
     "fonts/AntDesign.ttf": "/color-sequence-memorizer/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/color-sequence-memorizer/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/color-sequence-memorizer/./fonts/Feather.ttf",
@@ -24,12 +24,15 @@
     "index.html": "/color-sequence-memorizer/index.html",
     "manifest.json": "/color-sequence-memorizer/manifest.json",
     "serve.json": "/color-sequence-memorizer/serve.json",
-    "static/js/2.912277c3.chunk.js.LICENSE.txt": "/color-sequence-memorizer/static/js/2.912277c3.chunk.js.LICENSE.txt",
+    "static/js/2.9dca563c.chunk.js.LICENSE.txt": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js.LICENSE.txt",
+    "static/media/LevelLost.wav": "/color-sequence-memorizer/static/media/LevelLost.1c9d540c.wav",
+    "static/media/LevelWon.wav": "/color-sequence-memorizer/static/media/LevelWon.8b4512ba.wav",
+    "static/media/Tile.wav": "/color-sequence-memorizer/static/media/Tile.23253ef0.wav",
     "static/media/splash.png": "/color-sequence-memorizer/static/media/splash.59202d46.png"
   },
   "entrypoints": [
     "static/js/runtime~app.85b4155e.js",
-    "static/js/2.912277c3.chunk.js",
-    "static/js/app.d52a7d5c.chunk.js"
+    "static/js/2.9dca563c.chunk.js",
+    "static/js/app.acf68bcb.chunk.js"
   ]
 }
