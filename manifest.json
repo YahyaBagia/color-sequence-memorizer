@@ -5,22 +5,5 @@
   "name": "color-sequence-memorizer",
   "short_name": "color-sequence-memorizer",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "landscape",
-  "icons": [
-    {
-      "src": "/color-sequence-memorizer/pwa/chrome-icon/chrome-icon-144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "/color-sequence-memorizer/pwa/chrome-icon/chrome-icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/color-sequence-memorizer/pwa/chrome-icon/chrome-icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "orientation": "landscape"
 }

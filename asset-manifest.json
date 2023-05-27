@@ -1,38 +1,24 @@
 {
   "files": {
-    "app.js": "/color-sequence-memorizer/static/js/app.acf68bcb.chunk.js",
-    "app.js.map": "/color-sequence-memorizer/static/js/app.acf68bcb.chunk.js.map",
-    "runtime~app.js": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js",
-    "runtime~app.js.map": "/color-sequence-memorizer/static/js/runtime~app.85b4155e.js.map",
-    "static/js/2.9dca563c.chunk.js": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js",
-    "static/js/2.9dca563c.chunk.js.map": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js.map",
-    "fonts/AntDesign.ttf": "/color-sequence-memorizer/./fonts/AntDesign.ttf",
-    "fonts/Entypo.ttf": "/color-sequence-memorizer/./fonts/Entypo.ttf",
-    "fonts/Feather.ttf": "/color-sequence-memorizer/./fonts/Feather.ttf",
-    "fonts/FontAwesome.ttf": "/color-sequence-memorizer/./fonts/FontAwesome.ttf",
-    "fonts/FontAwesome5_Brands.ttf": "/color-sequence-memorizer/./fonts/FontAwesome5_Brands.ttf",
-    "fonts/FontAwesome5_Solid.ttf": "/color-sequence-memorizer/./fonts/FontAwesome5_Solid.ttf",
-    "fonts/Fontisto.ttf": "/color-sequence-memorizer/./fonts/Fontisto.ttf",
-    "fonts/Foundation.ttf": "/color-sequence-memorizer/./fonts/Foundation.ttf",
-    "fonts/Ionicons.ttf": "/color-sequence-memorizer/./fonts/Ionicons.ttf",
-    "fonts/MaterialCommunityIcons.ttf": "/color-sequence-memorizer/./fonts/MaterialCommunityIcons.ttf",
-    "fonts/MaterialIcons.ttf": "/color-sequence-memorizer/./fonts/MaterialIcons.ttf",
-    "fonts/SimpleLineIcons.ttf": "/color-sequence-memorizer/./fonts/SimpleLineIcons.ttf",
-    "favicon-16.png": "/color-sequence-memorizer/favicon-16.png",
-    "favicon-32.png": "/color-sequence-memorizer/favicon-32.png",
+    "main.js": "/color-sequence-memorizer/static/js/main.2c4dedbf.js",
+    "static/js/394.bafd92d1.js": "/color-sequence-memorizer/static/js/394.bafd92d1.js",
+    "static/media/MaterialIcons.ttf": "/color-sequence-memorizer/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/LevelWon.wav": "/color-sequence-memorizer/static/media/LevelWon.8b4512ba3b17479754a1.wav",
+    "static/media/splash.png": "/color-sequence-memorizer/static/media/splash.59202d4616ada0a93f98.png",
+    "static/media/LevelLost.wav": "/color-sequence-memorizer/static/media/LevelLost.1c9d540c5dfc4898c2de.wav",
+    "static/media/Xomai.ttf": "/color-sequence-memorizer/static/media/Xomai.043d0fe60095d9e209b8.ttf",
+    "static/media/Tile.wav": "/color-sequence-memorizer/static/media/Tile.23253ef012833c8ea13c.wav",
     "favicon.ico": "/color-sequence-memorizer/favicon.ico",
     "index.html": "/color-sequence-memorizer/index.html",
+    "favicon-32.png": "/color-sequence-memorizer/favicon-32.png",
+    "favicon-16.png": "/color-sequence-memorizer/favicon-16.png",
     "manifest.json": "/color-sequence-memorizer/manifest.json",
     "serve.json": "/color-sequence-memorizer/serve.json",
-    "static/js/2.9dca563c.chunk.js.LICENSE.txt": "/color-sequence-memorizer/static/js/2.9dca563c.chunk.js.LICENSE.txt",
-    "static/media/LevelLost.wav": "/color-sequence-memorizer/static/media/LevelLost.1c9d540c.wav",
-    "static/media/LevelWon.wav": "/color-sequence-memorizer/static/media/LevelWon.8b4512ba.wav",
-    "static/media/Tile.wav": "/color-sequence-memorizer/static/media/Tile.23253ef0.wav",
-    "static/media/splash.png": "/color-sequence-memorizer/static/media/splash.59202d46.png"
+    "main.2c4dedbf.js.map": "/color-sequence-memorizer/static/js/main.2c4dedbf.js.map",
+    "394.bafd92d1.js.map": "/color-sequence-memorizer/static/js/394.bafd92d1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime~app.85b4155e.js",
-    "static/js/2.9dca563c.chunk.js",
-    "static/js/app.acf68bcb.chunk.js"
+    "static/js/394.bafd92d1.js",
+    "static/js/main.2c4dedbf.js"
   ]
 }
